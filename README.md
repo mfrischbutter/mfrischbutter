@@ -7,12 +7,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mfrischbutter&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfrischbutter&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mfrischbutter&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 ![](https://komarev.com/ghpvc/?username=mfrischbutter&label=Visitors+Count&color=brightgreen)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mfrischbutter) 
-  
