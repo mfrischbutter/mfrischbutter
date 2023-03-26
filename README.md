@@ -6,7 +6,7 @@
 
 # 🧑 About me
 
-```json
+```
 name: "Michael Frischbutter",
 located_in: "Leipzig, Germany",
 current_job: "Flutter Developer",
