@@ -7,14 +7,14 @@
 # 🧑 About me
 
 ```json
-name: Michael Frischbutter,
-located_in: Leipzig, Germany,
-current_job: Flutter Developer,
+name: "Michael Frischbutter",
+located_in: "Leipzig, Germany",
+current_job: "Flutter Developer",
 education:
   [
     "Computer Science Expert (IHK)",
   ],
-company: noah GmbH,
+company: "noah GmbH",
 fields_of_interests:
   [
     "App Development",
